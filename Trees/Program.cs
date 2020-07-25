@@ -55,6 +55,16 @@ namespace Trees
             PreOrder(root.right);
         }
 
+        public int SumOfNodesInTree(Node root)
+        {
+            if (root == null)
+            {
+                return 0;
+            }
+
+            return root.data + SumOfNodesInTree(root.right) + SumOfNodesInTree(root.left);
+        }
+
     }
     /*           6
      *         /   \
@@ -85,6 +95,7 @@ namespace Trees
             tree.PreOrder(root);
             Console.WriteLine();
 
+            Console.WriteLine(tree.SumOfNodesInTree(root));
 
         }
     }
