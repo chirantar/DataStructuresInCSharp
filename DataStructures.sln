@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrrays", "Arrrays\Arrrays.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{CC948634-CD6A-4C96-AB34-307661A89266}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache", "LRUCache\LRUCache.csproj", "{100640A3-942A-4810-AE11-73419AE17F0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CC948634-CD6A-4C96-AB34-307661A89266}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC948634-CD6A-4C96-AB34-307661A89266}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC948634-CD6A-4C96-AB34-307661A89266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100640A3-942A-4810-AE11-73419AE17F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100640A3-942A-4810-AE11-73419AE17F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100640A3-942A-4810-AE11-73419AE17F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100640A3-942A-4810-AE11-73419AE17F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
