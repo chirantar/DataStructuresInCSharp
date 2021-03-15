@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{236E4C54-0A4F-44DF-8A82-BEBD6383FEA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrrays", "Arrrays\Arrrays.csproj", "{20E29FDF-5264-47FB-9063-7C03B196EEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{CC948634-CD6A-4C96-AB34-307661A89266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{236E4C54-0A4F-44DF-8A82-BEBD6383FEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{236E4C54-0A4F-44DF-8A82-BEBD6383FEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{236E4C54-0A4F-44DF-8A82-BEBD6383FEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E29FDF-5264-47FB-9063-7C03B196EEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E29FDF-5264-47FB-9063-7C03B196EEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E29FDF-5264-47FB-9063-7C03B196EEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E29FDF-5264-47FB-9063-7C03B196EEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC948634-CD6A-4C96-AB34-307661A89266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC948634-CD6A-4C96-AB34-307661A89266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC948634-CD6A-4C96-AB34-307661A89266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC948634-CD6A-4C96-AB34-307661A89266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
