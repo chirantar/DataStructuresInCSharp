@@ -12,6 +12,7 @@ namespace Graphs
         public List<int> BFSTraversal(List<int>[] graph, int v)
         {
             List<int> ans = new List<int>();
+
             bool[] visited = new bool[v];
 
             Queue<int> q = new Queue<int>();
