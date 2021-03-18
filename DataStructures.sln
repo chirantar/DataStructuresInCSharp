@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache", "LRUCache\LRUCache.csproj", "{100640A3-942A-4810-AE11-73419AE17F0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularLinkedList", "CircularLinkedList\CircularLinkedList.csproj", "{CCEB8713-05B7-418A-B7BD-1731C6BE2B80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{100640A3-942A-4810-AE11-73419AE17F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{100640A3-942A-4810-AE11-73419AE17F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{100640A3-942A-4810-AE11-73419AE17F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEB8713-05B7-418A-B7BD-1731C6BE2B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEB8713-05B7-418A-B7BD-1731C6BE2B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEB8713-05B7-418A-B7BD-1731C6BE2B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEB8713-05B7-418A-B7BD-1731C6BE2B80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
