@@ -17,11 +17,18 @@ namespace Arrrays
             //    Console.Write($"{val}, ");
             //}
 
-            QuickSorting.QuickSort(arr, 0, arr.Length - 1);
-            foreach (int val in arr)
-            {
-                Console.Write($"{val}, ");
-            }
+            //QuickSorting.QuickSort(arr, 0, arr.Length - 1);
+            //foreach (int val in arr)
+            //{
+            //    Console.Write($"{val}, ");
+            //}
+
+            PrintAllPermutations obj = new PrintAllPermutations();
+            string str = "abc";
+
+            obj.PrintPermutation(str.ToCharArray(), 0, str.Length - 1);
+
+            Console.Read();
         }
     }
 }
